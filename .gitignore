@@ -1,0 +1,15 @@
+# Python - Archivos temporales
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos Virtuales (Conda/Pip)
+.conda/
+env/
+venv/
+bin/
+
+# Sistema (Arch/Linux)
+.DS_Store
+.thumbs
+.nfs*
