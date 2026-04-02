@@ -1,11 +1,12 @@
-asyncpg
-pydantic
-sqlalchemy
+scikit-learn == 1.3.2
+numpy == 1.26.4
 python-dotenv
-fastapi
 fastapi-cors
-uvicorn
-gunicorn
+sqlalchemy
 httptools
-numpy==1.26.4
-scikit-learn==1.3.2
+gunicorn
+pydantic
+uvicorn
+asyncpg
+fastapi
+pandas
